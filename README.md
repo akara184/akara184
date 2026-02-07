@@ -1,4 +1,4 @@
-<div style="float: left;">
+<div style="float: center;">
         <img src="https://64.media.tumblr.com/d23fe8e334e0ea2aa6d268ee73af26c4/tumblr_pdp6c2iyhn1xci0e9o1_500.gifv" alt="Imagem">
     </div>
     <div>
