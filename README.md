@@ -5,3 +5,4 @@
     <p>I do belieave that God gave us the power of knowledge, and we as human doesn't know what knowledge is, we build, we create new things. but we still the same as we were 2500 years ago. </p>
     <p>I code because I love it, because I can talk, I love computers, I love god</p>
    
+<p>Enquanto houver um coração infantil, o Vasco será imortal</p>
