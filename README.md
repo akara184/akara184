@@ -3,6 +3,6 @@
 </p>
     <p align="center">Hello, I'm no one, no name.</p> <br>
       <p align="center">I enjoy philosophy/math/programming/hardware/software/CommonLisp/Emacs/Compilers/geoguess/vasco/opensource/god.<br>  I'm programmer, philosopher, mathematician, software enginner. I'm no one.  </p>
-    <p align="center">I do belieave that God gave us the power of knowledge, and we as human doesn't know what knowledge is, we build, we create new things. but we still the same as we were 2500 years ago. </p>
+    <p align="center">I will start a blog soon :^) </p>
    
 <i align="center">Enquanto houver um coração infantil, o Vasco será imortal</i>
