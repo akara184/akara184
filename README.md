@@ -8,4 +8,4 @@
 <br><br>
 <i align="center">Enquanto houver um coração infantil, o Vasco será imortal</i>
 <br><br>
-<b align="center">I will start a blog soon at shak.rocks </b>
+<b align="center">I’m going to start a blog soon at shak.rocks. I’ll build it using Common Lisp </b>
