@@ -3,10 +3,6 @@
 </p>
     <p align="center">Helloww, from the ether.</p> <br>
       <p align="center">I enjoy philosophy/math/programming/hardware/software/CommonLisp/Emacs/Compilers/geoguess/vasco/opensource/god.<br>  I'm programmer, philosopher, mathematician, software enginner.</p>
-  <p align="center">I like to program and dive deep into philosophy, specifically phenomenology/existentialism/ontology/Heidegger/Husserl/theology.</p>
   <p align="center">Currently studying type theory, machine learning and compilers. Building things with Lisp. Exploring the intersection of formal logic/mathematics/computation/humanity</p>
     <i align="center">"Cyberspace. A consensual hallucination experienced daily by billions of legitimate operators, in every nation, by children being taught mathematical concepts... A graphic representation of data abstracted from banks of every computer in the human system. Unthinkable complexity. Lines of light ranged in the nonspace of the mind, clusters and constellations of data. Like city lights, receding..." <br>
 ― William Gibson, Neuromancer</i>
-<br><br>
-<b align="center">I’m going to start a blog soon at shak.rocks. I’ll build it using Common Lispspsps🐱</b>
-
