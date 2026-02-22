@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0c/1e/d7/0c1ed7bc6e94014aadf500d1a813bf8b.gif" alt="Imagem" />
+  <img src="https://i.imgur.com/QS1Mq8u.gif" alt="Imagem" />
 </p>
     <p align="center">Helloww, from the ether.</p> <br>
       <p align="center">I enjoy philosophy/math/programming/hardware/software/CommonLisp/Emacs/Compilers/geoguess/vasco/opensource/god.<br>  I'm programmer, philosopher, mathematician, software enginner.</p>
