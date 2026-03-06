@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/QS1Mq8u.gif" alt="Imagem" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/James_Sant_-_Courage%2C_Anxiety_and_Despair_-_Watching_the_Battle.jpg" alt="Imagem" />
 </p>
     <p align="center">Helloww, from the ether.</p> <br>
       <p align="center">I enjoy philosophy/math/programming/hardware/software/CommonLisp/Emacs/Compilers/geoguess/vasco/opensource/god.<br>  I'm programmer, philosopher, mathematician, software enginner.</p>
